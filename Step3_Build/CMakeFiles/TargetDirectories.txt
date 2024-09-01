@@ -1,0 +1,6 @@
+/mnt/hgfs/cmakeTutorial/Step3_Build/CMakeFiles/Tutorial.dir
+/mnt/hgfs/cmakeTutorial/Step3_Build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/cmakeTutorial/Step3_Build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/cmakeTutorial/Step3_Build/MathFunctions/CMakeFiles/MathFunctions.dir
+/mnt/hgfs/cmakeTutorial/Step3_Build/MathFunctions/CMakeFiles/edit_cache.dir
+/mnt/hgfs/cmakeTutorial/Step3_Build/MathFunctions/CMakeFiles/rebuild_cache.dir

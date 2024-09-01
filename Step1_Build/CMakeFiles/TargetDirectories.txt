@@ -1,0 +1,3 @@
+/mnt/hgfs/cmakeTutorial/Step1_Build/CMakeFiles/Tutorial.dir
+/mnt/hgfs/cmakeTutorial/Step1_Build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/cmakeTutorial/Step1_Build/CMakeFiles/rebuild_cache.dir
